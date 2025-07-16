@@ -8,10 +8,10 @@
 
 ### 高速列车转向架故障模拟数字孪生实验台如图1、图2所示包含物理故障模拟试验台与虚拟故障仿真试验台，实验台主要包括构架、电机、齿轮箱、主轴、轮对以及轴箱等部分组成。实验台允许实验人员更换转向架传动链上的故障轴承和故障齿轮，以模拟转向架不同故障状态下的运行情况，为提高轴承与齿轮可靠性运行提供更为科学的实验数据。物理故障模拟试验台主要模拟轴箱与齿轮箱故障，轴箱轴承采用HRB 352213双列圆锥滚子轴承，齿轮箱轴承采用HRB 32305单列圆锥滚子轴承。
 
-<img src="https://github.com/user-attachments/assets/06964a38-6f38-49b8-98d9-7a161c9bdcf3" width="1000"/>
+<img src="https://github.com/user-attachments/assets/06964a38-6f38-49b8-98d9-7a161c9bdcf3" width="800"/>
 
 ### 图1 物理故障模拟试验台
-<img width="1000"  alt="微信图片_20250624153926" src="https://github.com/user-attachments/assets/731e13bb-7344-4bb7-8910-f89b13af458d" />
+<img width="800"  alt="微信图片_20250624153926" src="https://github.com/user-attachments/assets/731e13bb-7344-4bb7-8910-f89b13af458d" />
 
 ### 图2 虚拟故障仿真试验台
 
@@ -19,17 +19,17 @@
 
 ### HTBF转向架数据集包括29种健康状态的样本，其中包括齿轮箱故障、轴箱故障、复合故障三类。轴箱轴承与齿轮箱轴承分别包含四种故障形式，分别为滚动体故障、内圈故障、外圈故障与保持架故障，齿轮故障包含缺齿、断齿、齿面点蚀、齿面磨损故障形式。所有故障均由人工线切割方式产生且各类型故障包含以损伤程度为划分依据的不同等级的故障类型。如图3所示，展示了不同部件的典型模拟故障照片。 高速列车转向架故障模拟实验共包含18类运行工况，以模拟不同的高速列车运行状态。不同的电机转速模拟高速列车不同的运行速度，不同的横向载荷与纵向载荷模拟高速列车的不同负载与转向。具体工况设置见表1。
 
-<img width="1000" height="550" alt="PNG3" src="https://github.com/user-attachments/assets/29be965f-fa06-4162-87ef-a660b47006d9" />
+<img width="800" height="550" alt="PNG3" src="https://github.com/user-attachments/assets/29be965f-fa06-4162-87ef-a660b47006d9" />
 
 ### 图3 轴承\齿轮故障件图片
 
-<img width="1000"  alt="工况设置" src="https://github.com/user-attachments/assets/3c6b4b39-875d-4a9e-b706-a3a40fb63bd9" />
+<img width="800"  alt="工况设置" src="https://github.com/user-attachments/assets/3c6b4b39-875d-4a9e-b706-a3a40fb63bd9" />
 
 ### 表1 实验工况设置一览表
 ## 3.采样设置
 ### 转向架故障模拟实验台布置了4套MS101050单轴加速度传感器、1套TES001T三轴加速度传感器，采集了包括轴箱、齿轮箱、电机三个测点部位的信号，共计5个通道，每个通道的采样频率均为25.6kHZ，具体传感器测点布置如图4所示。
 
-<img width="1000"  alt="PNG4" src="https://github.com/user-attachments/assets/d25eb763-aa05-4222-b6ab-cff73b791d20" />
+<img width="800"  alt="PNG4" src="https://github.com/user-attachments/assets/d25eb763-aa05-4222-b6ab-cff73b791d20" />
 
 ### 图4 传感器测点布置图
 
