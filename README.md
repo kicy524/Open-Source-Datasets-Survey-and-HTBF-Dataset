@@ -21,35 +21,35 @@
 
 <img width="700" height="550" alt="PNG3" src="https://github.com/user-attachments/assets/29be965f-fa06-4162-87ef-a660b47006d9" />
 
-### 图3 轴承\齿轮故障件图片
+#### 图3 轴承\齿轮故障件图片
 
 <img width="700"  alt="工况设置" src="https://github.com/user-attachments/assets/3c6b4b39-875d-4a9e-b706-a3a40fb63bd9" />
 
-### 表1 实验工况设置一览表
+#### 表1 实验工况设置一览表
 ## 3.采样设置
 ### 转向架故障模拟实验台布置了4套MS101050单轴加速度传感器、1套TES001T三轴加速度传感器，采集了包括轴箱、齿轮箱、电机三个测点部位的信号，共计5个通道，每个通道的采样频率均为25.6kHZ，具体传感器测点布置如图4所示。
 
 <img width="700"  alt="传感器测点布置图(放大)" src="https://github.com/user-attachments/assets/948a2fe9-0c8f-4282-94cb-c19ed401eade" />
 
-### 图4 传感器测点布置图
+#### 图4 传感器测点布置图
 
 ## 4.数据文件夹结构
 ### HTBF转向架数据集数据存储文件夹结构与故障命名规则如图5、表2、表3所示，主文件夹名称为“High-Speed Train Bogie Fault Dataset”，其下包含具体的工况类型，例如“V1H1S1”,而每个工况文件夹下包含“Axlebox Fault”“Compound Fault”“Gearbox Fault”三类故障，最后则是对应到具体的故障类型，例如“RE1”“IR”等。每一个具体的故障类型文件夹下包含3个名称为“Sample1”“Sample2”“Sample3”CSV文件，每一个CSV文件中均包含5个通道的振动信号，其中振动信号长度为 60s。
 
 ![image](https://github.com/user-attachments/assets/eb1453b5-450f-4c3d-879e-9229a883df4d)
-### 图5 数据存储文件夹结构
+#### 图5 数据存储文件夹结构
 
 ![image](https://github.com/user-attachments/assets/fa60bfb2-cedd-497b-8ff9-d03a7c4dba8b)
-### 表2 故障轴承文件夹命名规则
+#### 表2 故障轴承文件夹命名规则
 
 ![image](https://github.com/user-attachments/assets/657005ee-1321-4f15-8b65-81859ace08f1)
-### 表3 故障齿轮文件夹命名规则
+#### 表3 故障齿轮文件夹命名规则
 
 ## 5.采样信号示例
-### 图 6 展示了轴箱轴承故障样本振动信号的时域波形与 Hilbert 包络谱示例。
+#### 图 6 展示了轴箱轴承故障样本振动信号的时域波形与 Hilbert 包络谱示例。
 
 ![image](https://github.com/user-attachments/assets/eda4654f-33e6-44ae-be58-c7461ebc1ba5)
-### 图6 轴箱轴承故障振动信号示例
+#### 图6 轴箱轴承故障振动信号示例
 
 
 ## 6.数据集下载与引用
