@@ -22,7 +22,9 @@
 <img width="800" height="550" alt="PNG3" src="https://github.com/user-attachments/assets/29be965f-fa06-4162-87ef-a660b47006d9" />
 
 ### 图3 轴承\齿轮故障件图片
-![image](https://github.com/user-attachments/assets/f7165f39-08ad-4583-a3ad-3174465ccadf)
+
+<img width="866" height="143" alt="工况设置" src="https://github.com/user-attachments/assets/3c6b4b39-875d-4a9e-b706-a3a40fb63bd9" />
+
 ### 表1 实验工况设置一览表
 ## 3.采样设置
 ### 转向架故障模拟实验台布置了4套MS101050单轴加速度传感器、1套TES001T三轴加速度传感器，采集了包括轴箱、齿轮箱、电机三个测点部位的信号，共计5个通道，每个通道的采样频率均为25.6kHZ，具体传感器测点布置如图4所示。
