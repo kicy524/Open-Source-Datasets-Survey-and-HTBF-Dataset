@@ -51,7 +51,8 @@
 ## 5.采样信号示例
 #### 图 6 展示了轴箱轴承故障样本振动信号的时域波形与 Hilbert 包络谱示例。
 
-![image](https://github.com/user-attachments/assets/eda4654f-33e6-44ae-be58-c7461ebc1ba5)
+<img width="700" alt="时频分析图" src="https://github.com/user-attachments/assets/e726d7fe-d819-45db-a569-e0ae219da96f" />
+
 #### 图6 轴箱轴承故障振动信号示例
 
 
