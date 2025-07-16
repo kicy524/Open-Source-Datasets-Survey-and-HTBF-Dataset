@@ -8,7 +8,7 @@
 
 ### 高速列车转向架故障模拟数字孪生实验台如图1、图2所示包含物理故障模拟试验台与虚拟故障仿真试验台，实验台主要包括构架、电机、齿轮箱、主轴、轮对以及轴箱等部分组成。实验台允许实验人员更换转向架传动链上的故障轴承和故障齿轮，以模拟转向架不同故障状态下的运行情况，为提高轴承与齿轮可靠性运行提供更为科学的实验数据。物理故障模拟试验台主要模拟轴箱与齿轮箱故障，轴箱轴承采用HRB 352213双列圆锥滚子轴承，齿轮箱轴承采用HRB 32305单列圆锥滚子轴承。
 
-<img src="https://github.com/user-attachments/assets/06964a38-6f38-49b8-98d9-7a161c9bdcf3" width="800"/>
+<img src="https://github.com/user-attachments/assets/06964a38-6f38-49b8-98d9-7a161c9bdcf3" width="700"/>
 
 ### 图1 物理故障模拟试验台
 <img width="700"  alt="微信图片_20250624153926" src="https://github.com/user-attachments/assets/731e13bb-7344-4bb7-8910-f89b13af458d" />
