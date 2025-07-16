@@ -10,7 +10,8 @@
 
 ![转向架图片](https://github.com/user-attachments/assets/06964a38-6f38-49b8-98d9-7a161c9bdcf3)
 ### 图1 物理故障模拟试验台
-![正文部分fromZhangKai(1)](https://github.com/user-attachments/assets/d32c82f9-1c3b-452d-ab67-5c7863ad6d01)
+<img width="597.5" height="345" alt="微信图片_20250624153926" src="https://github.com/user-attachments/assets/731e13bb-7344-4bb7-8910-f89b13af458d" />
+
 ### 图2 虚拟故障仿真试验台
 
 ## 2.故障模拟与实验设计
