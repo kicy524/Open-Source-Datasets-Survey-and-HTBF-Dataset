@@ -59,7 +59,8 @@
 ## 6.数据集下载与引用
 
 ### HTBF数字孪生数据集将陆续上传至该仓库，其中包括虚拟仿真模型、基线实验代码、实测信号等内容。 欢迎广大研究生、专家学者、工程师等研究人员利用该数据集进行科学研究工作，该数据集已开通了Baidu Netdisk下载渠道：[ https://pan.baidu.com/s/1fyrMASfIg6WHzV1e0JYeJQ?pwd=fps8]( https://pan.baidu.com/s/1fyrMASfIg6WHzV1e0JYeJQ?pwd=fps8)
-![image](https://github.com/user-attachments/assets/41e3b95e-a73f-454c-be35-c0b72e474649)
+<img width="700"  alt="下载二维码" src="https://github.com/user-attachments/assets/2d8d6447-72bf-44ac-a3c6-59d22f893ba5" />
+
 
 
 
