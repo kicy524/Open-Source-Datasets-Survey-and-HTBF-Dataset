@@ -44,7 +44,8 @@
 
 #### 表2 故障轴承文件夹命名规则
 
-![image](https://github.com/user-attachments/assets/657005ee-1321-4f15-8b65-81859ace08f1)
+<img width="750"  alt="齿轮故障命名规则" src="https://github.com/user-attachments/assets/57cef93b-e8be-4dda-937a-4925d639d24f" />
+
 #### 表3 故障齿轮文件夹命名规则
 
 ## 5.采样信号示例
