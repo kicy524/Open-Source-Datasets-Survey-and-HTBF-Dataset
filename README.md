@@ -29,7 +29,7 @@
 ## 3.采样设置
 ### 转向架故障模拟实验台布置了4套MS101050单轴加速度传感器、1套TES001T三轴加速度传感器，采集了包括轴箱、齿轮箱、电机三个测点部位的信号，共计5个通道，每个通道的采样频率均为25.6kHZ，具体传感器测点布置如图4所示。
 
-<img width="700"  alt="PNG4" src="https://github.com/user-attachments/assets/d25eb763-aa05-4222-b6ab-cff73b791d20" />
+<img width="700"  alt="传感器测点布置图(放大)" src="https://github.com/user-attachments/assets/948a2fe9-0c8f-4282-94cb-c19ed401eade" />
 
 ### 图4 传感器测点布置图
 
