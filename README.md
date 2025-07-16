@@ -36,10 +36,12 @@
 ## 4.数据文件夹结构
 ### HTBF转向架数据集数据存储文件夹结构与故障命名规则如图5、表2、表3所示，主文件夹名称为“High-Speed Train Bogie Fault Dataset”，其下包含具体的工况类型，例如“V1H1S1”,而每个工况文件夹下包含“Axlebox Fault”“Compound Fault”“Gearbox Fault”三类故障，最后则是对应到具体的故障类型，例如“RE1”“IR”等。每一个具体的故障类型文件夹下包含3个名称为“Sample1”“Sample2”“Sample3”CSV文件，每一个CSV文件中均包含5个通道的振动信号，其中振动信号长度为 60s。
 
-![image](https://github.com/user-attachments/assets/eb1453b5-450f-4c3d-879e-9229a883df4d)
+<img width="700"  alt="文件夹结构" src="https://github.com/user-attachments/assets/03e1475e-c563-45ea-bbe7-52ab07364093" />
+
 #### 图5 数据存储文件夹结构
 
-![image](https://github.com/user-attachments/assets/fa60bfb2-cedd-497b-8ff9-d03a7c4dba8b)
+<img width="750"  alt="故障命名规则" src="https://github.com/user-attachments/assets/5949182a-1201-48c2-a3d1-84cfb05043b0" />
+
 #### 表2 故障轴承文件夹命名规则
 
 ![image](https://github.com/user-attachments/assets/657005ee-1321-4f15-8b65-81859ace08f1)
